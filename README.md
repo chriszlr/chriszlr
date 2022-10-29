@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
-**`Web3.0/Blockchain Developer`**
+**Web3.0/Blockchain Developer**
 <h3 align="center">16yo developer from Germany🇩🇪</h3>
 
 - 🌱 I’m currently learning **Solidity, Ethers JS, Hardhat, React**
