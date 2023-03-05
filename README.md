@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">16yo developer from Germany🇩🇪</h3>
 
-- 🌱 I’m currently learning **Solidity, Ethers JS, Hardhat, and the MERN Stack**
+- 🌱 I’m currently learning **MongoDB, Node, Express, React**
 
 - 👯 I’m looking to collaborate on **ideas/future possibilities**
 
