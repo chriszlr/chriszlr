@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Chris🤙🏼</h1>
 <h3 align="center">17yo developer from Germany🇩🇪</h3>
 
-- 🌱 I’m currently learning **MongoDB, Express, React, NodeJS, Mendix**
+- 🌱 I’m currently learning **MongoDB, Express, React, NodeJS**
 
 - 👯 I’m looking to collaborate on **ideas/future possibilities**
 
