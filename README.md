@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Chris🤙🏼</h1>
-<h3 align="center">17yo developer from Germany🇩🇪</h3>
+<h3 align="center">Developer from Germany🇩🇪</h3>
 
 - 🌱 I’m currently learning **MongoDB, Express, React, NodeJS**
 
