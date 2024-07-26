@@ -1,12 +1,10 @@
 <h1 align="center">Hello, I'm Chris🤙🏼</h1>
 <h3 align="center">Web Developer from Germany🇩🇪</h3>
 
-- 🌱 I’m currently building full-stack web applications with **Next.js**
+- 👨‍💻 I’m currently building full-stack web applications with **Next.js**
 
 - 👯 I’m looking to collaborate on **ideas/future possibilities**
-
-- 👨‍💻 All of my projects are available at [https://github.com/chriszlr](https://github.com/chriszlr)
-
+  
 - 📫 How to reach me **chriszoellner@admark.ai**
 
 <h3 align="left">Languages and Tools:</h3>
